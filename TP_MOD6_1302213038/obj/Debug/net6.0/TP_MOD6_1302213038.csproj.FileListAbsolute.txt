@@ -1,0 +1,15 @@
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\bin\Debug\net6.0\TP_MOD6_1302213038.exe
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\bin\Debug\net6.0\TP_MOD6_1302213038.deps.json
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\bin\Debug\net6.0\TP_MOD6_1302213038.runtimeconfig.json
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\bin\Debug\net6.0\TP_MOD6_1302213038.dll
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\bin\Debug\net6.0\TP_MOD6_1302213038.pdb
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.csproj.AssemblyReference.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.GeneratedMSBuildEditorConfig.editorconfig
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.AssemblyInfoInputs.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.AssemblyInfo.cs
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.csproj.CoreCompileInputs.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.dll
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\refint\TP_MOD6_1302213038.dll
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.pdb
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\TP_MOD6_1302213038.genruntimeconfig.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\Praktikum\TP Mod 6\TP_MOD6_1302213038\obj\Debug\net6.0\ref\TP_MOD6_1302213038.dll
